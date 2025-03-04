@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PushNotifications")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c04cb64feb08e80dbfa58c0736bc4b9445a11b9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PushNotifications")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PushNotifications")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
