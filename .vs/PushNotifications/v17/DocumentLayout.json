@@ -1,85 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\",
+  "WorkspaceRootPath": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\monitoreventbyprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\monitoreventbyprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\createrecordinfilexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\createrecordinfilexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\createrecordinfilexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\staticclassglobalvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\monitoreventbyprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\monitoreventbyprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\staticclassglobalvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\staticclassglobalvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\statuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\statuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\statuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\mattermost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\mattermost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\mattermost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\pushnotifications\\formlogview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|C:\\Users\\user-2077\\Desktop\\PushNotifications\\pushnotifications\\formlogview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\formlogview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\pushnotifications\\statusprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|C:\\Users\\user-2077\\Desktop\\PushNotifications\\pushnotifications\\statusprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\statusprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\logrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\logrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\logrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\mainclasssendnotificationproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\mainclasssendnotificationproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\mainclasssendnotificationproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\formlogview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\formlogview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\formlogview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\statusprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\statusprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\statusprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\pushnotifications\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|C:\\Users\\user-2077\\Desktop\\PushNotifications\\pushnotifications\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\pushnotifications.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\pushnotifications.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\pushnotifications.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\formlogview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\formlogview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\formlogview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\pushnotifications\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|C:\\Users\\user-2077\\Desktop\\PushNotifications\\pushnotifications\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\projects\\pushnotifications\\pushnotifications\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|c:\\users\\user-2077\\desktop\\pushnotifications\\pushnotifications\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2736233B-3F06-456F-ADF4-0A204A7FF018}|PushNotifications\\PushNotifications.csproj|solutionrelative:pushnotifications\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -93,20 +93,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "FormLogView.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\FormLogView.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\FormLogView.cs",
               "RelativeDocumentMoniker": "PushNotifications\\FormLogView.cs",
               "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\FormLogView.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "..\\..\\PushNotifications\\PushNotifications\\FormLogView.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "PushNotifications\\FormLogView.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T11:33:17.767Z"
             },
@@ -114,9 +110,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Mattermost.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Mattermost.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Mattermost.cs",
               "RelativeDocumentMoniker": "PushNotifications\\Mattermost.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Mattermost.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Mattermost.cs",
               "RelativeToolTip": "PushNotifications\\Mattermost.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAcwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,9 +122,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "StatusCode.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\StatusCode.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\StatusCode.cs",
               "RelativeDocumentMoniker": "PushNotifications\\StatusCode.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\StatusCode.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\StatusCode.cs",
               "RelativeToolTip": "PushNotifications\\StatusCode.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,9 +134,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "StaticClassGlobalValue.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\StaticClassGlobalValue.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\StaticClassGlobalValue.cs",
               "RelativeDocumentMoniker": "PushNotifications\\StaticClassGlobalValue.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\StaticClassGlobalValue.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\StaticClassGlobalValue.cs",
               "RelativeToolTip": "PushNotifications\\StaticClassGlobalValue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,24 +144,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MonitorEventByPrinter.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\MonitorEventByPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\MonitorEventByPrinter.cs",
               "RelativeDocumentMoniker": "PushNotifications\\MonitorEventByPrinter.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\MonitorEventByPrinter.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\MonitorEventByPrinter.cs",
               "RelativeToolTip": "PushNotifications\\MonitorEventByPrinter.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAnwJEAAAAjAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAvwH4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T08:02:50.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T08:02:50.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Program.cs",
               "RelativeDocumentMoniker": "PushNotifications\\Program.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Program.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Program.cs",
               "RelativeToolTip": "PushNotifications\\Program.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwBsAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,25 +168,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CreateRecordInFileXML.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\CreateRecordInFileXML.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\CreateRecordInFileXML.cs",
               "RelativeDocumentMoniker": "PushNotifications\\CreateRecordInFileXML.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\CreateRecordInFileXML.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\CreateRecordInFileXML.cs",
               "RelativeToolTip": "PushNotifications\\CreateRecordInFileXML.cs",
-              "ViewState": "AQIAALYAAAAAAAAAAAAEwGUAAAA1AAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAvwGUAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T08:29:28.017Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "StatusPrintForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\StatusPrintForm.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\StatusPrintForm.cs",
               "RelativeDocumentMoniker": "PushNotifications\\StatusPrintForm.cs",
               "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\StatusPrintForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "..\\..\\PushNotifications\\PushNotifications\\StatusPrintForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "PushNotifications\\StatusPrintForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T08:53:53.295Z"
             },
@@ -199,9 +198,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MainClassSendNotificationProject.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\MainClassSendNotificationProject.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\MainClassSendNotificationProject.cs",
               "RelativeDocumentMoniker": "PushNotifications\\MainClassSendNotificationProject.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\MainClassSendNotificationProject.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\MainClassSendNotificationProject.cs",
               "RelativeToolTip": "PushNotifications\\MainClassSendNotificationProject.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAgwA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,9 +210,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "FormLogView.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\FormLogView.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\FormLogView.cs",
               "RelativeDocumentMoniker": "PushNotifications\\FormLogView.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\FormLogView.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\FormLogView.cs",
               "RelativeToolTip": "PushNotifications\\FormLogView.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAewB0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,9 +222,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "LogRecord.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\LogRecord.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\LogRecord.cs",
               "RelativeDocumentMoniker": "PushNotifications\\LogRecord.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\LogRecord.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\LogRecord.cs",
               "RelativeToolTip": "PushNotifications\\LogRecord.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAA6wAoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,9 +234,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "StatusPrintForm.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\StatusPrintForm.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\StatusPrintForm.cs",
               "RelativeDocumentMoniker": "PushNotifications\\StatusPrintForm.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\StatusPrintForm.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\StatusPrintForm.cs",
               "RelativeToolTip": "PushNotifications\\StatusPrintForm.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAqwBEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -247,9 +246,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Mail.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Mail.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Mail.cs",
               "RelativeDocumentMoniker": "PushNotifications\\Mail.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Mail.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Mail.cs",
               "RelativeToolTip": "PushNotifications\\Mail.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAQwDQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -259,9 +258,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Employees.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Employees.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Employees.cs",
               "RelativeDocumentMoniker": "PushNotifications\\Employees.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Employees.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Employees.cs",
               "RelativeToolTip": "PushNotifications\\Employees.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAtwAwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,9 +270,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Properties\\Resources.resx",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "PushNotifications\\Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Properties\\Resources.resx",
               "RelativeToolTip": "PushNotifications\\Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-02-04T12:10:35.339Z"
@@ -282,9 +281,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "PushNotifications",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\PushNotifications.csproj",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\PushNotifications.csproj",
               "RelativeDocumentMoniker": "PushNotifications\\PushNotifications.csproj",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\PushNotifications.csproj",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\PushNotifications.csproj",
               "RelativeToolTip": "PushNotifications\\PushNotifications.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-24T10:59:18.915Z"
@@ -293,9 +292,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "PushNotifications\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Form1.Designer.cs",
               "RelativeToolTip": "PushNotifications\\Form1.Designer.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAewBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -305,9 +304,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "FormLogView.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\FormLogView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\FormLogView.Designer.cs",
               "RelativeDocumentMoniker": "PushNotifications\\FormLogView.Designer.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\FormLogView.Designer.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\FormLogView.Designer.cs",
               "RelativeToolTip": "PushNotifications\\FormLogView.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -317,9 +316,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Form1.cs",
               "RelativeDocumentMoniker": "PushNotifications\\Form1.cs",
-              "ToolTip": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Form1.cs",
+              "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Form1.cs",
               "RelativeToolTip": "PushNotifications\\Form1.cs",
               "ViewState": "AQIAABEBAAAAAAAAAIAwwCoBAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -330,10 +329,10 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\Projects\\PushNotifications\\PushNotifications\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Form1.cs",
               "RelativeDocumentMoniker": "PushNotifications\\Form1.cs",
               "ToolTip": "C:\\Users\\user-2077\\Desktop\\PushNotifications\\PushNotifications\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\PushNotifications\\PushNotifications\\Form1.cs [Design]",
+              "RelativeToolTip": "PushNotifications\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T12:11:49.902Z"
             },
@@ -342,9 +341,9 @@
               "DocumentIndex": 20,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAAI8UAAAAAAAAAAAcwJUUAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-01-13T12:39:07.351Z"
